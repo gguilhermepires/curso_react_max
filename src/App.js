@@ -16,7 +16,7 @@ function App() {
             title={elem.title}
             amount={elem.amount}
             date={elem.date}
-          ></ExpenseItem>
+          />
         })
       }
     </div>
